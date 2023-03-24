@@ -1,0 +1,8 @@
+secrets/*.yaml
+**/**/__pycache__
+
+venv
+.coverage
+.idea/
+
+logs/
